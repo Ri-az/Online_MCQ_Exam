@@ -1,0 +1,89 @@
+01. The keyword used to transfer control from a function back to the calling function is
+(a) switch
+(b) goto
+(c) go back
+(d) return
+
+02. A default catch block catches
+(a) all thrown objects
+(b) no thrown objects
+(c) any thrown object that has not been caught by an earlier catch block
+(d) all thrown objects that have been caught by an earlier catch block
+
+03. The use of the break statement in a switch statement is
+(a) optional
+(b) compulsory
+(c) not allowed. It gives an error message
+(d) to check an error
+
+04. The first element in a string is
+(a) the name of the string
+(b) the first character in the string
+(c) the length of the string
+(d) the name of the array holding the string
+
+05. Variables declared outside a block are called
+(a) global
+(b) universal
+(c) stellar
+(d) external
+
+06. The compiler converts your C++ instructions into
+(a) edited code
+(b) object code
+(c) source code
+(d) translated code
+
+07. A fundamental type such as int or double is a _____
+(a) programmer-defined type
+(b) complex type
+(c) nonscalar type
+(d) scalar type
+
+08. The last statement in a function is often a(n) _____
+(a) return
+(b) goodbye
+(c) finish
+(d) end function 
+
+09. When the function int someFunction(char c) throw( ) is executed, _____
+(a) it can throw anything
+(b) it may throw an integer
+(c) it may throw a character
+(d) it may not throw anything
+
+10. You typically initialize a String variable to _____
+(a) an asterisk
+(b) a space enclosed in single quotes
+(c) the number 0
+(d) a zero-length string
+
+11. The get() function returns _____
+(a) a character
+(b) void
+(c) a reference to the object that invoked it
+(d) a copy of the object that invoked it
+
+12. The number 5.5e3 is a _____ constant
+(a) character literal
+(b) named literal
+(c) numeric literal
+(d) string literal
+
+13. The function that takes arguments to set the bits of count is _____
+(a) setf()
+(b) bitsef()
+(c) ios()
+(d) flag()
+
+14. An array element is accessed using
+(a) a first-in-first-out approach
+(b) the dot operator
+(c) a member name
+(d) an index number
+
+15. The generic name used for unexpected errors that occur during the execution of a program is
+(a) infractions
+(b) exceptions
+(c) deviations
+(d) anomalies
